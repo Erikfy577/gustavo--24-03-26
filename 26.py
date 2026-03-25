@@ -1,3 +1,4 @@
+#Analisador de Triângulos: Leia 3 retas e diga se elas podem formar umtriângulo.
 r1 = float(input("Reta 1: "))
 r2 = float(input("Reta 2: "))
 r3 = float(input("Reta 3: "))

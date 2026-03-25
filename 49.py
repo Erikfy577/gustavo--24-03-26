@@ -1,3 +1,4 @@
+#Menu de Opções: Leia dois números e mostre um menu: [1] somar, [2] multiplicar, [3] maior, [4] novos números, [5] sair. O programa só fecha no 5.
 n1 = int(input("Primeiro valor: "))
 n2 = int(input("Segundo valor: "))
 opcao = 0

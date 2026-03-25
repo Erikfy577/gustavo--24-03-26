@@ -1,3 +1,4 @@
+#Tipos de Triângulo: Baseado no ex 26, diga se o triângulo é Equilátero, Isósceles ouEscaleno.
 r1 = float(input("Reta 1: "))
 r2 = float(input("Reta 2: "))
 r3 = float(input("Reta 3: "))

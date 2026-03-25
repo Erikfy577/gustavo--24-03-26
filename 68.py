@@ -1,3 +1,5 @@
+# Palpites da Mega-Sena: Pergunte quantos jogos o usuário quer gerar. Crie uma lista
+# contendo N listas de 6 números aleatórios (de 1 a 60), sem repetição dentro do mesmojogo.
 import random
 import time
 jogos = int(input("Quantos jogos você quer gerar? "))

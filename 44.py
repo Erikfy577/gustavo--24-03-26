@@ -1,3 +1,4 @@
+#Detector de Palíndromo: Leia uma frase e diga se ela é igual lida de trás para frente.
 frase = input("Digite uma frase: ").strip().upper()
 palavras = frase.split()
 junto = "".join(palavras)

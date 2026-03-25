@@ -1,3 +1,4 @@
+#Sistema de Cadastro Escolar: Permita que o usuário pesquise o aluno pelo nome novetor do exercício 69 e visualize as notas individuais dele. O programa para quandopesquisar por "fim".Sistema de Cadastro Escolar: Permita que o usuário pesquise o aluno pelo nome novetor do exercício 69 e visualize as notas individuais dele. O programa para quandopesquisar por "fim".
 alunos = [
     ["João", 7.5, 8.0],
     ["Maria", 9.0, 6.5],

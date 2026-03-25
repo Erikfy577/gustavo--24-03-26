@@ -1,3 +1,4 @@
+#Jogo da Adivinhação v2.0: O computador pensa em um número de 0 a 10. Ojogador tenta adivinhar até acertar, mostrando quantos palpites foram necessários.
 import random
 computador = random.randint(0, 10)
 acertou = False

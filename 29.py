@@ -1,3 +1,4 @@
+#Categoria de Atleta: Classifique um atleta pela idade: até 9 (Mirim), até 14 (Infantil), até 19 (Junior), até 25 (Sênior), acima (Master).
 idade = int(input("Idade do atleta: "))
 if idade <= 9:
     print("Classificação: MIRIM")

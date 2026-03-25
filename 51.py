@@ -1,3 +1,4 @@
+# Super PA: Refaça o ex 42, mas pergunte se o usuário quer ver mais termos. Pare quando ele disser que quer 0 termos.
 primeiro = int(input("Primeiro termo: "))
 razao = int(input("Razão: "))
 termo = primeiro

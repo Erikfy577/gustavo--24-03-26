@@ -1,3 +1,4 @@
+#Lista Ordenada (Sem usar sort): Leia 5 números e insira-os na lista já na posição correta(crescente), sem usar a função sort().
 lista = []
 for i in range(0, 5):
     n = int(input("Digite um valor: "))

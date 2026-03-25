@@ -1,3 +1,4 @@
+#Pedra, Papel, Tesoura: Crie um jogo onde o computador escolhe uma opção aleatóriaejoga contra você.
 import random
 itens = ("Pedra", "Papel", "Tesoura")
 computador = random.randint(0, 2)

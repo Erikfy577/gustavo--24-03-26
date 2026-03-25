@@ -1,3 +1,4 @@
+# Matemática na Matriz: Usando a matriz do ex 66, mostre a soma de todos os valores pares e a soma dos valores da terceira coluna.
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 for l in range(0, 3):
     for c in range(0, 3):

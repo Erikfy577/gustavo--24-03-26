@@ -1,3 +1,4 @@
+# Maior e Menor v2.0: Leia vários números. Pergunte se o usuário quer continuar. Aofinal, mostre a média, o maior e o menor Maior e Menor v2.0: Leia vários números. Pergunte se o usuário quer continuar. Aofinal, mostre a média, o maior e o menor
 resp = "S"
 soma = quant = media = maior = menor = 0
 while resp in "Ss":

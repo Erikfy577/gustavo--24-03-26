@@ -1,3 +1,4 @@
+#Sequência de Fibonacci: Leia um número N e mostre os N primeiros elementos da sequência de Fibonacci (0, 1, 1, 2, 3, 5, 8...).
 n = int(input("Quantos termos você quer mostrar? "))
 t1 = 0
 t2 = 1

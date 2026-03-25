@@ -1,3 +1,4 @@
+#Matriz Simples: Crie uma lista de listas (matriz 3x3) e preencha com valores pelo teclado. Imprima a matriz com a formatação correta.
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 for l in range(0, 3):
     for c in range(0, 3):

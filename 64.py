@@ -1,3 +1,4 @@
+#Média da Turma: Crie duas listas: uma para nomes de alunos e outra para suas notas. Ao final, imprima o nome e a nota dos alunos que ficaram acima da média da turmaMédia da Turma: Crie duas listas: uma para nomes de alunos e outra para suas notas. Ao final, imprima o nome e a nota dos alunos que ficaram acima da média da turma
 alunos = []
 notas = []
 for i in range(0, 4):

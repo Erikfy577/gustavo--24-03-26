@@ -1,3 +1,4 @@
+#Peso Maior e Menor: Leia o peso de 5 pessoas e mostre qual foi o maior e o menor peso.
 maior = 0
 menor = 0
 for p in range(1, 6):

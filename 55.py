@@ -1,3 +1,4 @@
+#Caixa Eletrônico: Peça o valor a ser sacado e mostre quantas cédulas de 50, 20, 10 e1serão entregues.Caixa Eletrônico: Peça o valor a ser sacado e mostre quantas cédulas de 50, 20, 10 e1serão entregues.
 valor = int(input("Que valor você quer sacar? R$ "))
 total = valor
 ced = 50

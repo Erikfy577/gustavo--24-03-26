@@ -1,3 +1,4 @@
+#Gerenciador de Pagamentos: Calcule o valor final: à vista no dinheiro (10%desc), à vista no cartão (5% desc), 2x no cartão (preço normal), 3x ou mais (20% juros).
 preco = float(input("Preço do produto: R$ "))
 print("1 - À vista (Dinheiro/Cheque)\n2 - À vista (Cartão)\n3 - 2x no Cartão\n4 - 3x ou mais no Cartão")
 opcao = int(input("Opção de pagamento: "))

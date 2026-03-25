@@ -1,3 +1,4 @@
+#Empréstimo Bancário: Leia valor da casa, salário e anos a pagar. A prestação não podeexceder 30% do salário.
 casa = float(input("Valor da casa: R$ "))
 salario = float(input("Salário: R$ "))
 anos = int(input("Anos para pagar: "))

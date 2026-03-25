@@ -1,3 +1,4 @@
+#Números Primos: Leia um número e diga se ele é primo ou não, usando umlaço paratestar a divisão.
 num = int(input("Digite um número: "))
 tot = 0
 for c in range(1, num + 1):

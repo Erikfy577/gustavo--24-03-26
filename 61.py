@@ -1,3 +1,4 @@
+#Dividindo Listas: Leia vários números e guarde em uma lista. Crie mais duas listas: umasó com os pares e outra só com os ímpares da primeira.
 geral = []
 pares = []
 impares = []

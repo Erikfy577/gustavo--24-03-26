@@ -1,3 +1,4 @@
+#Calculadora IMC: Calcule o IMC e classifique (Abaixo do peso, Peso ideal, Sobrepeso, Obesidade, Obesidade Mórbida).
 peso = float(input("Peso (kg): "))
 altura = float(input("Altura (m): "))
 imc = peso / (altura ** 2)

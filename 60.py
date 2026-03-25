@@ -1,3 +1,4 @@
+#Extraindo Dados: Leia vários números. Mostre quantos foram digitados, exiba a lista em ordem decrescente e diga se o valor 5 está ou não na lista.
 num = []
 while True:
     num.append(int(input("Digite um valor: ")))

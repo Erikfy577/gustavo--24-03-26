@@ -1,3 +1,4 @@
+#Grupo da Maioridade: Leia o ano de nascimento de 7 pessoas e diga quantas já sãodemaior.
 from datetime import date
 atual = date.today().year
 maior = 0

@@ -1,3 +1,4 @@
+#Valores Únicos: O usuário digita vários números. Adicione-os a uma lista apenas se onúmero ainda não estiver nela.
 lista = []
 while True:
     n = int(input("Digite um valor: "))
