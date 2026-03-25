@@ -1,0 +1,8 @@
+vantagens
+Declaração Única: Em vez de escrever 365 linhas declarando variáveis independentes, você cria uma única estrutura na memória que encapsula todos os dados do ano.
+Acesso Indexado: O acesso a qualquer dia específico é feito dinamicamente através de um índice numérico (por exemplo, acessando a posição 0 para o primeiro dia e 364 para o último).
+
+A Sinergia com Estruturas de Repetição
+
+Automação em Poucas Linhas: Para calcular a média anual, você não precisa somar cada variável manualmente (dia1 + dia2 + ...). Um loop iterativo percorre a lista inteira, do primeiro ao último elemento, acumulando o valor total em apenas duas ou três linhas de código.
+Escalabilidade: Se o programa precisar passar a analisar 10 anos de temperaturas em vez de apenas 1, a lógica matemática dentro da estrutura de repetição e da lista continua exatamente a mesma. O código não precisa crescer, apenas a quantidade de dados processados.
